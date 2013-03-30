@@ -1,0 +1,6 @@
+keycode 11 = 2 at EuroSign
+keycode 12 = 3 sterling numbersign
+keycode 48 = apostrophe quotedbl
+keycode 51 = backslash bar
+keycode 64 = Mode_switch
+keycode 94 = grave asciitilde
